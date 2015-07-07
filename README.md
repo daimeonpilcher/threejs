@@ -13,7 +13,7 @@
 #Show an example.:
 Many examples on http://threejs.org/
 Some examples that stick out:
-  http://carvisualizer.plus360degrees.com/threejs/
-  https://photosynth.net/preview/#54,39c998fe-8eef-4df4-87e6-f870f1297131
-  http://armsglobe.chromeexperiments.com/
-  http://acko.net/
+  * http://carvisualizer.plus360degrees.com/threejs/
+  * https://photosynth.net/preview/#54,39c998fe-8eef-4df4-87e6-f870f1297131
+  * http://armsglobe.chromeexperiments.com/
+  * http://acko.net/
