@@ -8,7 +8,7 @@
   Three JS uses Web GL and GPU for processing.  You have to learn how to code the things you want to see.  You can't just draw your designs on the screen.  Everything is built with constructors.  You have to start with a scene, a renderer and a "camera."  From there you create your materials and shape constructors.  You can set points of light, distance and location.
 
 ##What are the takeaways/lessons learned?:
-  Three js was meant for people who 
+  Three js was meant for people who are graphic artists and who want to display data in interesting and visual ways to engage the viewer.  The lessons learned are that I need a lot of practice and studing in computer graphics generation.
 
 ##Show an example.:
 Many examples on http://threejs.org/
